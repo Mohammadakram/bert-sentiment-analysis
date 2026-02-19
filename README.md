@@ -38,4 +38,4 @@ The project is organized by dataset. Click on a folder to view specific implemen
 ## 👤 Author
 **Mohammad Akram**
 *MSc Computing | Data Analytics & NLP Enthusiast*
-[LinkedIn Profile](https://www.linkedin.com/in/your-profile-link)
+[LinkedIn Profile][(https://www.linkedin.com/in/your-profile-link)](https://www.linkedin.com/in/akram-mohammad1/)
